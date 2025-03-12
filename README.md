@@ -1,4 +1,4 @@
-# Basketball-Defense-Research-Project
+# Basketball Defense Research Project
 
 📊🏀 *A statistical evaluation of high school defensive strategies using real game data from the 2023–24 season.*
 
